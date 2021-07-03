@@ -1,4 +1,9 @@
 # tip_final
 
-Das Abschlussprojekt des TIP. (Theoriekurs Informatik Praktikum)
-Gästebuch Implementation mit php und sql.
+### Das Abschlussprojekt des TIP. 
+Webapplikation mit folgenden Technologien:
+
+- php
+- sql
+- bootstrap
+
