@@ -1,6 +1,4 @@
-# tip_final
-
-### Das Abschlussprojekt des TIP. 
+# Das TIP Abschlussprojekt 
 Webapplikation mit folgenden Technologien:
 
 - php
