@@ -1,7 +1,7 @@
-# Das TIP Abschlussprojekt 
-Webapplikation mit folgenden Technologien:
+# guestbook
 
+Diese Webapplikation habe ich geschrieben, um meine Kentnisse im LAMP-Stack zu vertiefen. 
+## Verwendete Technologien:
 - php
-- sql
-- bootstrap
-
+- MySQl
+- HTML/CSS/javascript
